@@ -2,6 +2,8 @@
 
 Demo for tutorial [How to Use Sass with CSS Modules in Next.js](https://www.youtube.com/watch?v=C1-hmauMht0)
 
+🚀 See Demo: https://my-next-sass-app.netlify.app/
+
 📝 Article: https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/
 
 📺 YouTube: https://www.youtube.com/watch?v=C1-hmauMht0
