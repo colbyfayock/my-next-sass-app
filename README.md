@@ -1,14 +1,15 @@
-# Next.js Sass Demo
+# Sass Modules in Next.js
 
-Demo for tutorials that help you learn how to use Sass in Next.js.
+Demo for tutorial [How to Use Sass with CSS Modules in Next.js](https://www.youtube.com/watch?v=C1-hmauMht0)
 
-Learn how to create your own with [Sass in Next.js Tutorial - Write SCSS with CSS Modules](https://www.youtube.com/watch?v=C1-hmauMht0)
+📝 Article: https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/
 
-## Getting started locally
-* `yarn install`
-* `yarn dev`
-* 🚀
+📺 YouTube: https://www.youtube.com/watch?v=C1-hmauMht0
 
 ## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
